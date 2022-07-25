@@ -1,0 +1,8 @@
+- 3 complet rockets separated for parts.
+- 3 satellites
+- 1 probe
+- 1 spatial telescope
+- 1 launcher
+- Extras
+
+Files separated by type.

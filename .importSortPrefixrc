@@ -1,0 +1,13 @@
+{
+  "groupings": [
+    "@src",
+    [
+      "@libs"
+    ],
+    [
+      "@assets",
+      "@styles",
+      "@app"
+    ]
+  ]
+}

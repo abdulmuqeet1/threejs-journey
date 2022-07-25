@@ -1,0 +1,24 @@
+*,
+*::before,
+*::after {
+    /* -webkit-box-sizing: border-box; */
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: black;
+}
+
+.threeModel {
+    padding: 0;
+    margin: 0;
+}
+
+.webgl {
+    padding: 0;
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+}
+/*# sourceMappingURL=main.css.map */
